@@ -8,7 +8,8 @@
 - 👯 I’m looking to collaborate on whatever you need, iam available...
 - 🤔 i just learning new things , if you can help me , cool.
 - 💬 Ask me about anything you want
-- 📫 How to reach me: text me on whatsapp +258846411171
+- 📫 How to reach me: text me on whatsapp +258846411171 ,or send me an email inaciosacataria@gmail.com
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I always feel like a hacker , when i am coding.
 

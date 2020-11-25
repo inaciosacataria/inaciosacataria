@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on something new called Dumbanengue
 - 🌱 I’m currently learning Mobile application
 - 👯 I’m looking to collaborate on whatever you need, iam available...
-- 🤔 i just learning <b>Node</b> Js , if you can help me , cool.
+- 🤔 i just learning <b>Node Js</b> , if you can help me , cool.
 - 💬 Ask me about anything you want
 - 📫 How to reach me: text me on whatsapp +258846411171 ,or send me an email inaciosacataria@gmail.com
 

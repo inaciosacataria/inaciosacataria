@@ -4,7 +4,7 @@
 </i>
 
 - 🔭 I’m currently working on something new called Dumbanengue
-- 🌱 I’m currently learning Mobile application
+- 🌱 I’m currently working with Mobile application
 - 👯 I’m looking to collaborate on whatever you need, iam available...
 - 🤔 i just learning <b>Node Js</b> , if you can help me , cool.
 - 💬 Ask me about anything you want

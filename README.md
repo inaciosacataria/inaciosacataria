@@ -3,7 +3,7 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Inacio+Sacataria!;I'm+a+Android+Developer...;I'm+also+Backend+Develope)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Inacio+Sacataria+here!;I'm+a+Android+Developer...;I'm+also+Backend+Develope)](https://git.io/typing-svg)
 
 
 
@@ -29,11 +29,11 @@ object **SEU NOME** {
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
+- 🔭 I’m currently working on Android and Node.js Projects
 - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
+- 👯 I’m looking to collaborate on Android, Web applications and Deep Learning Projects
+- 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
+- 💬 Ask me about Programming 
 
 ## **Linguagens e Ferramentas:**  
 

@@ -12,14 +12,20 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
+object **Who Am I** {
  val name = "Inacio Sacataria"
  val acknowledgements = "Android & Backend Development"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Kotlin", "Node.js", "Java", "C#") 
+ val languages = listOf("Kotlin", "Node.js", "Java", "C#")
+ 
+ // find me resume in this variable
+ val MyResume = "https://bit.ly/inacio-resume" 
 }
+ 
 ```
+
+<code><img height="40" src="https://38yzzh31tl41lys151mtjy81-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/wr-resumes-logo.png"> find out My resume on https://bit.ly/inacio-resume</code>
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/inaciosacataria?tab=followers)
 

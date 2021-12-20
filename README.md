@@ -60,11 +60,11 @@ object **Who Am I** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciosacataria&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="#">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=inaciosacataria&show_icons=true&theme=dracula&line_height=27" alt="**Inacio Sacataria** github stats"/>
 </a>
 

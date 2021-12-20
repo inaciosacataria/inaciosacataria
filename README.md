@@ -16,7 +16,7 @@ object **Who Am I** {
  val name = "Inacio Sacataria"
  val acknowledgements = "Android & Backend Development"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Some Skills"
  val languages = listOf("Kotlin", "Node.js", "Java", "C#")
  
  // find me resume in this variable

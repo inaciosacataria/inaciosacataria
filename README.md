@@ -17,7 +17,12 @@ object **Who Am I** {
  val acknowledgements = "Android & Backend Development"
  
  val primarySkillset = "Some Skills"
- val languages = listOf("Kotlin", "Node.js", "Java", "C#")
+ val languages = listOf("Kotlin","JavaScript","Java", "C#","few words on dart")
+ 
+ // Check my events on the link bellow
+ val MyEvents = "https://bit.ly/itcdev" 
+ val Google_IO_Extented = "https://bit.ly/googleioext"
+ 
  
  // find me resume in this variable
  val MyResume = "https://bit.ly/inacio-resume" 
@@ -27,6 +32,14 @@ object **Who Am I** {
 }
  
 ```
+[website]: https://bit.ly/inacio-portifolio/
+[linkedin]: https://www.linkedin.com/in/inacio-sacataria-606683199/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
 
 <code><img height="40" src="https://38yzzh31tl41lys151mtjy81-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/wr-resumes-logo.png"> find out My resume on https://bit.ly/inacio-resume</code>
 
@@ -69,19 +82,6 @@ object **Who Am I** {
 </a>
 
 
-
-[website]: https://inaciosacataria.com/
-[twitter]: https://twitter.com/InacioSacataria
-[instagram]: https://www.instagram.com/__jr48/
-[linkedin]: https://www.linkedin.com/in/inacio-sacataria-606683199/
-<br>
-
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
 
 <div align="center">
 Ask me anything  <a href="mailto:inaciosacataria@gmail.com"><b>email</b></a> me
